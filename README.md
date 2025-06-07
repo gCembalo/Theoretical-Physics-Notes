@@ -1,6 +1,6 @@
 # Theoretical-Physics-Notes
 
-These are my notes for some of BCs degree physics courses taught at the University of Turin.
+These are my notes for some of BCs and MSc degree in physics attended at the University of Turin.
 
 These notes are compiled based on material delivered in lectures as well as the lecture notes provided, various textbooks, and other sources.
 
